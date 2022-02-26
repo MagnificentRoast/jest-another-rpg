@@ -1,5 +1,5 @@
 {
-  "name": "jest-another-rpg",
+  "name": "jest",
   "version": "1.0.0",
   "description": "an rpg app for node using jest",
   "main": "index.js",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/MagnificentRoast/jest-another-rpg/issues"
   },
-  "homepage": "https://github.com/MagnificentRoast/jest-another-rpg#readme"
+  "homepage": "https://github.com/MagnificentRoast/jest-another-rpg#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
