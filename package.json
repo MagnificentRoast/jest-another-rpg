@@ -1,25 +1,16 @@
 {
-  "name": "jest",
-  "version": "27.5.1",
-  "description": "an rpg app for node using jest",
-  "main": "index.js",
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MagnificentRoast/jest-another-rpg.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MagnificentRoast/jest-another-rpg/issues"
-  },
-  "homepage": "https://github.com/MagnificentRoast/jest-another-rpg#readme",
-  "directories": {
-    "lib": "lib"
-  },
-  "devDependencies": {
-    "jest": "^27.5.1"
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^24.9.0"
   }
 }
